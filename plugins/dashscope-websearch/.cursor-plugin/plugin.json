@@ -1,6 +1,9 @@
 {
   "name": "dashscope-websearch",
+  "displayName": "阿里云百炼搜索",
   "version": "0.1.0",
   "description": "阿里云百炼 WebSearch 远程 MCP",
-  "keywords": ["search", "aliyun", "dashscope", "mcp", "chinese"]
+  "category": "productivity",
+  "logo": "logo.svg",
+  "keywords": ["阿里", "阿里云", "百炼", "通义", "搜索", "dashscope", "aliyun", "search"]
 }
