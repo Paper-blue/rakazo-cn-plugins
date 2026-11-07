@@ -1,0 +1,6 @@
+{
+  "name": "dashscope-websearch",
+  "version": "0.1.0",
+  "description": "阿里云百炼 WebSearch 远程 MCP",
+  "keywords": ["search", "aliyun", "dashscope", "mcp", "chinese"]
+}

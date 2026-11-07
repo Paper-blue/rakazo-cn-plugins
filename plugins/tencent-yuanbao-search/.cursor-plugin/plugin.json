@@ -1,0 +1,6 @@
+{
+  "name": "tencent-yuanbao-search",
+  "version": "0.1.0",
+  "description": "腾讯云元宝联网搜索（SearchPro）远程 MCP",
+  "keywords": ["search", "tencent", "mcp", "chinese"]
+}

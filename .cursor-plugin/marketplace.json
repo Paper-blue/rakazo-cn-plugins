@@ -1,0 +1,19 @@
+{
+  "name": "rakazo-cn",
+  "owner": { "name": "Paper Blue" },
+  "metadata": {
+    "description": "自建国内服务插件源：把国内云厂商的远程 MCP 服务做成 Rakazo 可安装的插件。"
+  },
+  "plugins": [
+    {
+      "name": "tencent-yuanbao-search",
+      "source": "./plugins/tencent-yuanbao-search",
+      "description": "腾讯云元宝联网搜索（SearchPro）远程 MCP。免密可完成握手，调用工具需要腾讯云联网搜索 API Key。"
+    },
+    {
+      "name": "dashscope-websearch",
+      "source": "./plugins/dashscope-websearch",
+      "description": "阿里云百炼 WebSearch 远程 MCP。需要在连接器凭据中填入 DashScope API Key。"
+    }
+  ]
+}
