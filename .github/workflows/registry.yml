@@ -1,0 +1,47 @@
+name: registry
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/validate-registry.mjs
+
+  refresh:
+    if: github.event_name == 'push' || github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+      - run: node scripts/validate-registry.mjs
+      - name: Rebuild registry from upstream
+        run: node scripts/build-registry.mjs
+      - name: Commit upstream changes
+        run: |
+          if git diff --quiet -- .cursor-plugin; then
+            echo "registry already up to date"
+            exit 0
+          fi
+          git config user.name "registry-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .cursor-plugin
+          git commit -m "Refresh aggregated plugin index"
+          git push
+      - run: node scripts/validate-registry.mjs

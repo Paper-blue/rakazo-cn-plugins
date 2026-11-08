@@ -1,39 +1,70 @@
-# Rakazo 国内服务插件源
+# Rakazo 国内插件市场
 
-自建的 Rakazo 插件市场来源，补充 Cursor、xAI 之外的国内云服务。原有的 Cursor 与 xAI 源不受影响。
-
-## 内容
-
-| 插件 | 服务 | 地址 | 凭据 |
-| --- | --- | --- | --- |
-| `tencent-yuanbao-search` | 腾讯云元宝联网搜索（SearchPro） | `https://api.wsa.cloud.tencent.com/Mcp` | 调用工具需腾讯云联网搜索 API Key |
-| `dashscope-websearch` | 阿里云百炼 WebSearch | `https://dashscope.aliyuncs.com/api/v1/mcps/WebSearch/mcp` | 需 DashScope API Key（Bearer） |
-
-## 格式约束
-
-Rakazo 对插件有完整性检查：不能包含 `rules/`、`hooks/`、`automations/` 目录或 `.lsp.json`；技能附件只能是 md/mdx/txt/json/yaml/csv；`mcp.json` 只接受 `streamable-http` / `sse` / `http` 的 `https://` 远程地址，且不允许 `${...}` 凭据占位符。因此本仓库只收录「纯远程 MCP」插件，不打包脚本附件。
+自托管 Rakazo 的**自维护国内插件来源**，格式与 Rakazo 内置的 Cursor / xAI 市场完全兼容：在 Rakazo 里配置这一条来源，就能同时看到本仓库自建的插件和聚合来的国内厂商插件。
 
 ## 使用
 
-在 Rakazo 的插件市场里即可看到上述插件（需自托管实例通过 `RAKAZO_EXTRA_REGISTRIES` 指向本仓库）。
+在 Rakazo 部署的 `.env` 里追加（本地派生镜像支持 `RAKAZO_EXTRA_REGISTRIES`）：
+
+```json
+[
+  {
+    "name": "国内服务",
+    "repository": "https://github.com/paper-blue/rakazo-cn-plugins",
+    "path": ".cursor-plugin/marketplace.json",
+    "manifest": ".cursor-plugin/plugin.json",
+    "componentIndex": ".cursor-plugin/plugin-index.json"
+  }
+]
+```
+
+注意：`repository` 必须**全小写**。Rakazo 会把插件来源路径转成小写后与配置的仓库地址做前缀比较，大小写不一致时插件会被静默丢弃。
+
+## 内容
+
+### 自建插件（`plugins/`）
+
+直接放在本仓库、随仓库安装的插件，用来补上国内服务里没有现成兼容包的空白。
+
+| 插件 | 服务 | 凭据 |
+| --- | --- | --- |
+| `tencent-yuanbao-search` | 腾讯云元宝联网搜索（SearchPro） | 调用工具需腾讯云联网搜索 API Key |
+| `dashscope-websearch` | 阿里云百炼 WebSearch | 需 DashScope API Key（Bearer） |
+
+### 聚合插件（`sources.json`）
+
+按上游 commit 钉住的国内插件市场，通过 `componentIndex` 引用，不复制上游文件：
+
+| 来源 | 仓库 |
+| --- | --- |
+| 火山引擎 | `volcengine/volcengine-agent-toolkit` |
+| 腾讯云 CloudBase | `TencentCloudBase/CloudBase-AI-Toolkit` |
+| 百度智能云 | `baidubce/aihc-plugins` |
+| SumSec 中文技能 | `SummerSec/SumSec-Skills` |
+| 智谱 ZCode | `zai-org/zcode-plugins` |
+
+插件内容、许可与更新以上游仓库为准；本仓库只维护「哪些插件、指向哪个提交、归到哪个分类」。
+
+## 维护
+
+```bash
+node scripts/build-registry.mjs      # 重新生成 .cursor-plugin/marketplace.json 与 plugin-index.json
+node scripts/validate-registry.mjs   # 按 Rakazo 的约束校验
+node scripts/build-registry.mjs --check   # CI 用：生成结果与提交内容不一致就失败
+```
+
+- GitHub Actions：PR 上只校验；push / 每天定时 / 手动触发时会重新抓取上游并自动提交索引变化。
+- 新增自建插件：在 `plugins/<name>/` 放 `.cursor-plugin/plugin.json` 和（可选的）`mcp.json`，再跑一次 `build`。
+- 新增聚合来源：往 `sources.json` 里加一条 `{ id, label, repository, index, defaultCategory }`。
+
+## 格式约束（Rakazo 会拒绝的情况）
+
+- 插件名必须匹配 `^[a-z0-9](?:[a-z0-9.-]*[a-z0-9])?$`。
+- `mcp.json` 只接受 `streamable-http` / `sse` / `http` 的 **https** 远程地址，只允许 `type` / `url` / `headers` 字段，且不允许 `${...}` 占位符。
+- 凭据不能写进 URL 查询参数（`key` / `token` / `auth` 等会被拒绝）；需要鉴权的服务应在安装后配置连接器凭据。
+- 浏览时 Rakazo 会过滤掉带 `rules/`、`hooks/`、`automations/`、`.lsp.json` 或脚本附件的插件（这些插件用 `componentIndex` 描述后仍可出现，安装时脚本类附件会作为「跳过项」列出）。
+- 纯技能包不会出现在「集成」面板，它在账户菜单的「技能」里；「集成」只列带连接器的插件。
 
 ## 说明
 
-本项目只提供插件描述，不代理、不改写任何厂商服务；各服务的可用性、鉴权方式、计费与条款以厂商官方为准。
-
-## 聚合的国内来源
-
-| 来源 | 仓库 | 收录插件 |
-| --- | --- | --- |
-| 火山引擎 | `volcengine/volcengine-agent-toolkit` | 7 |
-| 腾讯云 CloudBase | `TencentCloudBase/CloudBase-AI-Toolkit` | 2 |
-| 百度智能云 | `baidubce/aihc-plugins` | 2 |
-| SumSec 中文技能 | `SummerSec/SumSec-Skills` | 9 |
-| 智谱 ZCode 官方市场 | `zai-org/zcode-plugins` | 51 |
-| 自建（本仓库） | 腾讯云元宝搜索 / 阿里云百炼搜索 | 2 |
-
-共 73 个插件，通过 `.cursor-plugin/plugin-index.json`（componentIndex）指向各上游仓库的固定提交，不复制其文件；插件内容、许可与更新以上游仓库为准。
-
-部分上游插件带 `.py`/`.sh` 脚本附件或 `hooks/`、`rules/` 目录：Rakazo 安装时会跳过这些部分并在安装预览里列出，技能文本本身可正常安装。若某个插件装完发现缺少脚本，请以上游仓库为准手动补齐。
-
-智谱 ZCode 的插件使用 `.zcode-plugin/plugin.json` 清单，需要 Rakazo 端启用对应清单路径（本部署已通过补丁支持）。
+本仓库只提供插件清单与少量自建插件描述，不代理、不改写任何厂商服务；各服务的可用性、鉴权方式、计费与条款以厂商官方为准。

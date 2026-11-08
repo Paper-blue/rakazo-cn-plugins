@@ -1,0 +1,14 @@
+{
+  "name": "rakazo-cn-plugins",
+  "private": true,
+  "type": "module",
+  "description": "Rakazo 可用的国内插件市场来源（聚合 + 自建）",
+  "scripts": {
+    "build": "node scripts/build-registry.mjs",
+    "validate": "node scripts/validate-registry.mjs",
+    "check": "node scripts/validate-registry.mjs && node scripts/build-registry.mjs --check"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

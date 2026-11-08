@@ -1,5 +1,25 @@
 {
   "plugins": {
+    "dashscope-websearch": {
+      "sha": "0000000000000000000000000000000000000000",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "tencent-yuanbao-search": {
+      "sha": "0000000000000000000000000000000000000000",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
     "volcengine-core": {
       "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
       "components": {
@@ -1692,26 +1712,6 @@
         "skills": [
           {
             "description": "skill"
-          }
-        ]
-      }
-    },
-    "tencent-yuanbao-search": {
-      "sha": "d11d3f27b79fd0f561f25018ff58a5e45b2197a9",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
-          }
-        ]
-      }
-    },
-    "dashscope-websearch": {
-      "sha": "d11d3f27b79fd0f561f25018ff58a5e45b2197a9",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
           }
         ]
       }

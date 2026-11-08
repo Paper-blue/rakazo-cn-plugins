@@ -1,0 +1,40 @@
+{
+  "$comment": "上游国内插件市场清单。build-registry.mjs 按此聚合，每个插件用上游 commit 钉住（componentIndex 机制），不复制上游文件。",
+  "sources": [
+    {
+      "id": "volcengine",
+      "label": "火山引擎",
+      "repository": "https://github.com/volcengine/volcengine-agent-toolkit",
+      "index": ".cursor-plugin/marketplace.json",
+      "defaultCategory": "developer-tools"
+    },
+    {
+      "id": "cloudbase",
+      "label": "腾讯云 CloudBase",
+      "repository": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+      "index": ".cursor-plugin/marketplace.json",
+      "defaultCategory": "developer-tools"
+    },
+    {
+      "id": "baidu-aihc",
+      "label": "百度智能云",
+      "repository": "https://github.com/baidubce/aihc-plugins",
+      "index": ".cursor-plugin/marketplace.json",
+      "defaultCategory": "developer-tools"
+    },
+    {
+      "id": "sumsec",
+      "label": "SumSec",
+      "repository": "https://github.com/SummerSec/SumSec-Skills",
+      "index": ".cursor-plugin/marketplace.json",
+      "defaultCategory": "developer-tools"
+    },
+    {
+      "id": "zcode",
+      "label": "智谱 ZCode",
+      "repository": "https://github.com/zai-org/zcode-plugins",
+      "index": "marketplace.json",
+      "defaultCategory": "developer-tools"
+    }
+  ]
+}
