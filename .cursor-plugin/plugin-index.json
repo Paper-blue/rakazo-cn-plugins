@@ -1,7 +1,7 @@
 {
   "plugins": {
     "dashscope-websearch": {
-      "sha": "0000000000000000000000000000000000000000",
+      "sha": "c8461ce692cd35ae0a312f97938016ae2a7aa47b",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "0000000000000000000000000000000000000000",
+      "sha": "c8461ce692cd35ae0a312f97938016ae2a7aa47b",
       "components": {
         "mcpServers": [
           {
