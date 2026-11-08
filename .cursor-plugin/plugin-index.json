@@ -1,7 +1,7 @@
 {
   "plugins": {
     "dashscope-websearch": {
-      "sha": "099dc1e4dae95a9e83c182f4f509de4b0792f43c",
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "099dc1e4dae95a9e83c182f4f509de4b0792f43c",
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
       "components": {
         "mcpServers": [
           {
