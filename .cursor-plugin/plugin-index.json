@@ -1,0 +1,384 @@
+{
+  "plugins": {
+    "volcengine-core": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-storage": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-database": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-containers-middleware": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-security": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-identity-access-control": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "volcengine-service-support": {
+      "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "cloudbase": {
+      "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ],
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "cloudbase-sites": {
+      "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ],
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "aihc-eval": {
+      "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "aihc-eval-openapi": {
+      "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "cloudflare-email": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "taste-skill": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "semantic-linter": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "tencent-yuanbao-search": {
+      "sha": "c1c0c817a373b11bddad830649cf1767accc8b0c",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "dashscope-websearch": {
+      "sha": "c1c0c817a373b11bddad830649cf1767accc8b0c",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    }
+  }
+}

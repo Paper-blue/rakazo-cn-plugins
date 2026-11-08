@@ -4,7 +4,7 @@
     "name": "Paper Blue"
   },
   "metadata": {
-    "description": "自建国内服务插件源：把国内云厂商的远程 MCP 服务做成 Rakazo 可安装的插件。"
+    "description": "自建国内插件源：聚合火山引擎、腾讯云 CloudBase、百度智能云、SumSec 中文技能，并提供腾讯云/阿里云搜索 MCP。"
   },
   "plugins": [
     {
@@ -38,6 +38,225 @@
         "aliyun",
         "search",
         "bailian"
+      ]
+    },
+    {
+      "name": "volcengine-core",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-core"
+      },
+      "description": "火山引擎：Core Volcengine discovery, documentation search, CLI operations, troubleshooting, and voluntary community feedback skills.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-storage",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-storage"
+      },
+      "description": "火山引擎：Operate Volcengine storage products and data with product-specific tools.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-database",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-database"
+      },
+      "description": "火山引擎：Build and operate database-backed applications on Volcengine managed database platforms.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-containers-middleware",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-containers-middleware"
+      },
+      "description": "火山引擎：Deploy and manage Volcengine serverless, container, and middleware application runtimes.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-security"
+      },
+      "description": "火山引擎：Assess security and compliance posture, query audit logs, and manage CloudTrail for Volcengine accounts and resources.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-identity-access-control",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-identity-access-control"
+      },
+      "description": "火山引擎：Design and establish Volcengine landing zones, organizations, identity, account factories, and governance baselines.",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "volcengine-service-support",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/volcengine/volcengine-agent-toolkit",
+        "sha": "5af868a2defaca2ce05ca65e6cc6bcf5867413d0",
+        "path": "plugins/volcengine-service-support"
+      },
+      "description": "火山引擎：Route product transactions (purchase, price enquiry, unsubscribe), prepare and deploy applications, manage infrastructure as code, explore OpenAPI specifications, and generate runnable SDK exampl",
+      "category": "developer-tools",
+      "keywords": [
+        "火山引擎"
+      ]
+    },
+    {
+      "name": "cloudbase",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+        "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
+        "path": "plugin/cloudbase-codex"
+      },
+      "description": "腾讯云：CloudBase platform capabilities: AI, auth, databases, cloud functions, storage, CloudRun, and Mini Program integration.",
+      "category": "developer-tools",
+      "keywords": [
+        "腾讯云",
+        "cloudbase",
+        "tencent-cloud",
+        "baas",
+        "claude-code",
+        "codebuddy",
+        "openclaw",
+        "ai-model",
+        "database",
+        "cloud-function",
+        "authentication",
+        "storage",
+        "cloudrun",
+        "cursor"
+      ]
+    },
+    {
+      "name": "cloudbase-sites",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
+        "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
+        "path": "plugin/cloudbase-sites-codex"
+      },
+      "description": "腾讯云：Create, preview, save, deploy, inspect, and roll back Vite web apps hosted on Tencent CloudBase.",
+      "category": "developer-tools",
+      "keywords": [
+        "腾讯云",
+        "cloudbase",
+        "sites",
+        "vibe-coding",
+        "vite",
+        "react",
+        "vue",
+        "claude-code",
+        "codebuddy",
+        "openclaw",
+        "cursor"
+      ]
+    },
+    {
+      "name": "aihc-eval",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/baidubce/aihc-plugins",
+        "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+        "path": "plugins/aihc-eval"
+      },
+      "description": "百度智能云：百舸模型评测工具集：把自定义推理服务改造成具身评测可用的 Model Server（用户自定义镜像接入）等评测场景能力。",
+      "category": "developer-tools",
+      "keywords": [
+        "百度智能云"
+      ]
+    },
+    {
+      "name": "aihc-eval-openapi",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/baidubce/aihc-plugins",
+        "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+        "path": "plugins/aihc-eval-openapi"
+      },
+      "description": "百度智能云：百舸具身评测 OpenAPI 实践：以苏州地域为例，给出评测任务的调用顺序、签名与幂等、CreateEmbodiedEval 请求体（预置模型、自有权重、自有镜像、全托管资源池）、结果与回放视频读取和常见报错排查。",
+      "category": "developer-tools",
+      "keywords": [
+        "百度智能云"
+      ]
+    },
+    {
+      "name": "cloudflare-email",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SummerSec/SumSec-Skills",
+        "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+        "path": "cloudflare-email"
+      },
+      "description": "SumSec 中文技能：Cloudflare temp mail agent skill for reading inbox messages, fetching parsed mail, and sending email with an Address JWT.",
+      "category": "productivity",
+      "keywords": [
+        "SumSec 中文技能"
+      ]
+    },
+    {
+      "name": "taste-skill",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SummerSec/SumSec-Skills",
+        "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+        "path": "taste-skill"
+      },
+      "description": "SumSec 中文技能：Frontend design taste skills for distinctive layouts, redesigns, image-to-code, brand systems, and visual direction.",
+      "category": "developer-tools",
+      "keywords": [
+        "SumSec 中文技能"
+      ]
+    },
+    {
+      "name": "semantic-linter",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SummerSec/SumSec-Skills",
+        "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+        "path": "semantic-linter"
+      },
+      "description": "SumSec 中文技能：Detects semantic trap words and wide-boundary wording in Skill, Prompt, and Agent instruction files.",
+      "category": "developer-tools",
+      "keywords": [
+        "SumSec 中文技能"
       ]
     }
   ]
