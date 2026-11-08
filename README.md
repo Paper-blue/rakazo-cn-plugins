@@ -38,7 +38,6 @@
 | 来源 | 仓库 |
 | --- | --- |
 | 火山引擎 | `volcengine/volcengine-agent-toolkit` |
-| 腾讯云 CloudBase | `TencentCloudBase/CloudBase-AI-Toolkit` |
 | 百度智能云 | `baidubce/aihc-plugins` |
 | SumSec 中文技能 | `SummerSec/SumSec-Skills` |
 | 智谱 ZCode | `zai-org/zcode-plugins` |
@@ -68,3 +67,9 @@ node scripts/build-registry.mjs --check   # CI 用：生成结果与提交内容
 ## 说明
 
 本仓库只提供插件清单与少量自建插件描述，不代理、不改写任何厂商服务；各服务的可用性、鉴权方式、计费与条款以厂商官方为准。
+
+## 已知不兼容 / 未收录
+
+- **腾讯云 CloudBase（`TencentCloudBase/CloudBase-AI-Toolkit`）**：`plugin/cloudbase` 与 `plugin/cloudbase-codex` 两条路径在 Rakazo 预览阶段都返回 400（`Could not preview a supported plugin from this repository`），收录后用户点「添加」必然失败，因此暂不列入。仓库本身的清单与 `mcp.json` 结构看起来正常，问题在 Rakazo 侧的解析，需单独排查。
+- **智谱 ZCode 的 `.zcode-plugin` 清单**：Rakazo 需要打补丁（`MANIFESTS` 增加 `.zcode-plugin/plugin.json` / `.claude-plugin/plugin.json`）才能安装；未打补丁的实例仍能看到条目但安装会失败。
+- 带 `hooks/`、`rules/` 或 `.py`/`.sh` 附件的上游插件：安装时这些部分会作为「跳过项」列出；技能文本仍会安装。

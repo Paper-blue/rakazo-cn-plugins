@@ -1,17 +1,10 @@
 {
-  "$comment": "上游国内插件市场清单。build-registry.mjs 按此聚合，每个插件用上游 commit 钉住（componentIndex 机制），不复制上游文件。",
+  "$comment": "上游国内插件市场清单。build-registry.mjs 按此聚合，每个插件用上游 commit 钉住（componentIndex 机制），不复制上游文件。 腾讯云 CloudBase-AI-Toolkit 暂不收录：其插件在 Rakazo 预览阶段返回 400（路径/文件内容不被接受），收录后用户点击安装必然失败；待上游修好再开。",
   "sources": [
     {
       "id": "volcengine",
       "label": "火山引擎",
       "repository": "https://github.com/volcengine/volcengine-agent-toolkit",
-      "index": ".cursor-plugin/marketplace.json",
-      "defaultCategory": "developer-tools"
-    },
-    {
-      "id": "cloudbase",
-      "label": "腾讯云 CloudBase",
-      "repository": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
       "index": ".cursor-plugin/marketplace.json",
       "defaultCategory": "developer-tools"
     },
