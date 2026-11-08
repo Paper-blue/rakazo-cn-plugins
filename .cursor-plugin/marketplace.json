@@ -137,57 +137,6 @@
       ]
     },
     {
-      "name": "cloudbase",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
-        "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
-        "path": "plugin/cloudbase-codex"
-      },
-      "description": "腾讯云 CloudBase：CloudBase platform capabilities: AI, auth, databases, cloud functions, storage, CloudRun, and Mini Program integration.",
-      "category": "code",
-      "keywords": [
-        "腾讯云 CloudBase",
-        "cloudbase",
-        "tencent-cloud",
-        "baas",
-        "claude-code",
-        "codebuddy",
-        "openclaw",
-        "ai-model",
-        "database",
-        "cloud-function",
-        "authentication",
-        "storage",
-        "cloudrun",
-        "cursor"
-      ]
-    },
-    {
-      "name": "cloudbase-sites",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/TencentCloudBase/CloudBase-AI-Toolkit",
-        "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
-        "path": "plugin/cloudbase-sites-codex"
-      },
-      "description": "腾讯云 CloudBase：Create, preview, save, deploy, inspect, and roll back Vite web apps hosted on Tencent CloudBase.",
-      "category": "code",
-      "keywords": [
-        "腾讯云 CloudBase",
-        "cloudbase",
-        "sites",
-        "vibe-coding",
-        "vite",
-        "react",
-        "vue",
-        "claude-code",
-        "codebuddy",
-        "openclaw",
-        "cursor"
-      ]
-    },
-    {
       "name": "aihc-eval",
       "source": {
         "source": "url",

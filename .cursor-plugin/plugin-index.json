@@ -1,7 +1,7 @@
 {
   "plugins": {
     "dashscope-websearch": {
-      "sha": "c8461ce692cd35ae0a312f97938016ae2a7aa47b",
+      "sha": "099dc1e4dae95a9e83c182f4f509de4b0792f43c",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "c8461ce692cd35ae0a312f97938016ae2a7aa47b",
+      "sha": "099dc1e4dae95a9e83c182f4f509de4b0792f43c",
       "components": {
         "mcpServers": [
           {
@@ -123,146 +123,6 @@
           {
             "description": "skill"
           },
-          {
-            "description": "skill"
-          }
-        ]
-      }
-    },
-    "cloudbase": {
-      "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
-      "components": {
-        "skills": [
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          }
-        ],
-        "agents": [
-          {
-            "description": "agent"
-          },
-          {
-            "description": "agent"
-          }
-        ],
-        "commands": [
-          {
-            "description": "command"
-          },
-          {
-            "description": "command"
-          },
-          {
-            "description": "command"
-          },
-          {
-            "description": "command"
-          }
-        ],
-        "mcpServers": [
-          {
-            "description": "http"
-          }
-        ]
-      }
-    },
-    "cloudbase-sites": {
-      "sha": "8ec7084e0483e408573b7bd26ff7f3f4e02a788f",
-      "components": {
-        "skills": [
           {
             "description": "skill"
           }
