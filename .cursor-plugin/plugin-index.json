@@ -246,11 +246,6 @@
           {
             "description": "skill"
           }
-        ],
-        "mcpServers": [
-          {
-            "description": "http"
-          }
         ]
       }
     },
@@ -270,6 +265,178 @@
         "skills": [
           {
             "description": "skill"
+          }
+        ]
+      }
+    },
+    "writing-zh": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "dev-tools": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "agents-dev": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "plugin-dev": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "claude-md-management": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "hookify": {
+      "sha": "cbc1fa05add0dc20c1b298a6302b28476885fbbf",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
           }
         ]
       }
@@ -360,8 +527,1177 @@
         ]
       }
     },
+    "cloudbase-skills": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "github": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "video-agent-kit": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "video2code": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "autoresearch": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "accounting-and-reporting": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "assess-credit": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "find-clients": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "model-deals": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "pick-funds": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "read-macro": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "run-fpa": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "vet-companies": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "watch-positions": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "write-research": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          },
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "gitlab": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "alibaba-cloud-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "lark-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "tencent-meeting-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "dingtalk-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "wecom-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "hexin": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "wind": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "tianyancha": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "finance-search": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          },
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "obsidian": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "hyper3d-rodin": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ],
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "zcode-mcp-app-dev": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "excalidraw": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "photocraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "vectorcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "pdfcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "designcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "wordcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "gridcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "deckcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "cadcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "soundcraft": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "tripo-3d": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "kicad": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "jupyter-notebook": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "typst-workbench": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "zotero": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "unreal-engine": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "anet": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "ruic-card": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "libtv-cli": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "godot": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "commands": [
+          {
+            "description": "command"
+          }
+        ]
+      }
+    },
+    "blender": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "unity": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
+    "jev-decisions": {
+      "sha": "0cc58d6aa29644f50af1d7ac2fa4c4eb7ada95d9",
+      "components": {
+        "skills": [
+          {
+            "description": "skill"
+          }
+        ]
+      }
+    },
     "tencent-yuanbao-search": {
-      "sha": "c1c0c817a373b11bddad830649cf1767accc8b0c",
+      "sha": "d11d3f27b79fd0f561f25018ff58a5e45b2197a9",
       "components": {
         "mcpServers": [
           {
@@ -371,7 +1707,7 @@
       }
     },
     "dashscope-websearch": {
-      "sha": "c1c0c817a373b11bddad830649cf1767accc8b0c",
+      "sha": "d11d3f27b79fd0f561f25018ff58a5e45b2197a9",
       "components": {
         "mcpServers": [
           {

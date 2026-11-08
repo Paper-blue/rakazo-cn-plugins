@@ -28,8 +28,12 @@ Rakazo 对插件有完整性检查：不能包含 `rules/`、`hooks/`、`automat
 | 火山引擎 | `volcengine/volcengine-agent-toolkit` | 7 |
 | 腾讯云 CloudBase | `TencentCloudBase/CloudBase-AI-Toolkit` | 2 |
 | 百度智能云 | `baidubce/aihc-plugins` | 2 |
-| SumSec 中文技能 | `SummerSec/SumSec-Skills` | 3 |
+| SumSec 中文技能 | `SummerSec/SumSec-Skills` | 9 |
+| 智谱 ZCode 官方市场 | `zai-org/zcode-plugins` | 51 |
+| 自建（本仓库） | 腾讯云元宝搜索 / 阿里云百炼搜索 | 2 |
 
-聚合条目通过 `.cursor-plugin/plugin-index.json`（componentIndex）指向各上游仓库的固定提交，不复制其文件；插件内容、许可与更新以上游仓库为准。
+共 73 个插件，通过 `.cursor-plugin/plugin-index.json`（componentIndex）指向各上游仓库的固定提交，不复制其文件；插件内容、许可与更新以上游仓库为准。
 
-未收录：`zai-org/zcode-plugins`（52 个）使用 `.zcode-plugin` 清单格式，Rakazo 只识别 `plugin.json` / `.cursor-plugin/plugin.json` / `.grok-plugin/plugin.json`，安装会失败，因此没有列入目录。
+部分上游插件带 `.py`/`.sh` 脚本附件或 `hooks/`、`rules/` 目录：Rakazo 安装时会跳过这些部分并在安装预览里列出，技能文本本身可正常安装。若某个插件装完发现缺少脚本，请以上游仓库为准手动补齐。
+
+智谱 ZCode 的插件使用 `.zcode-plugin/plugin.json` 清单，需要 Rakazo 端启用对应清单路径（本部署已通过补丁支持）。
