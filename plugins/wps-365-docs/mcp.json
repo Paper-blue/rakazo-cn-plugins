@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wps-365-docs": {
+      "type": "streamable-http",
+      "url": "https://openapi.wps.cn/mcp/v2/kso-airpage/message"
+    }
+  }
+}

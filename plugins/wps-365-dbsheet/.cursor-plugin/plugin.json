@@ -1,0 +1,14 @@
+{
+  "name": "wps-365-dbsheet",
+  "displayName": "WPS 365 · 多维表格",
+  "version": "0.1.0",
+  "description": "WPS 365 多维表格；需要企业自建应用、用户授权和对应权限。",
+  "category": "productivity",
+  "keywords": [
+    "wps",
+    "金山",
+    "多维表格",
+    "办公"
+  ],
+  "logo": "logo.png"
+}

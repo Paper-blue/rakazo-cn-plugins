@@ -1,0 +1,14 @@
+{
+  "name": "wps-365-docs",
+  "displayName": "WPS 365 · 智能文档",
+  "version": "0.1.0",
+  "description": "WPS 365 智能文档；需要企业自建应用、用户授权和对应权限。",
+  "category": "productivity",
+  "keywords": [
+    "wps",
+    "金山",
+    "智能文档",
+    "办公"
+  ],
+  "logo": "logo.png"
+}

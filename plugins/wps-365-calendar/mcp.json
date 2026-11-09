@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wps-365-calendar": {
+      "type": "streamable-http",
+      "url": "https://openapi.wps.cn/mcp/v2/kso-calendar/message"
+    }
+  }
+}

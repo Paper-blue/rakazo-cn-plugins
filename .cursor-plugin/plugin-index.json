@@ -1615,6 +1615,46 @@
           }
         ]
       }
+    },
+    "tencent-docs": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "wps-365-calendar": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "wps-365-docs": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "wps-365-dbsheet": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
     }
   }
 }
