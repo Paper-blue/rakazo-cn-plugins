@@ -8,6 +8,19 @@
   },
   "plugins": [
     {
+      "name": "bailian-enhanced-search",
+      "source": "./plugins/bailian-enhanced-search",
+      "description": "百炼增强搜索，需相应 Token Plan 权益及百炼 API Key。",
+      "category": "productivity",
+      "keywords": [
+        "阿里",
+        "百炼",
+        "增强搜索",
+        "bailian",
+        "search"
+      ]
+    },
+    {
       "name": "dashscope-websearch",
       "source": "./plugins/dashscope-websearch",
       "description": "阿里云百炼 WebSearch 远程 MCP",
@@ -21,6 +34,43 @@
         "dashscope",
         "aliyun",
         "search"
+      ]
+    },
+    {
+      "name": "glm-web-reader",
+      "source": "./plugins/glm-web-reader",
+      "description": "提取网页正文，需 GLM Coding Plan API Key。",
+      "category": "productivity",
+      "keywords": [
+        "智谱",
+        "网页读取",
+        "glm",
+        "reader"
+      ]
+    },
+    {
+      "name": "glm-web-search",
+      "source": "./plugins/glm-web-search",
+      "description": "搜索网页，需 GLM Coding Plan API Key。",
+      "category": "productivity",
+      "keywords": [
+        "智谱",
+        "联网搜索",
+        "glm",
+        "search"
+      ]
+    },
+    {
+      "name": "glm-zread",
+      "source": "./plugins/glm-zread",
+      "description": "检索和读取公开开源仓库，需 GLM Coding Plan API Key。",
+      "category": "productivity",
+      "keywords": [
+        "智谱",
+        "开源",
+        "代码",
+        "仓库",
+        "zread"
       ]
     },
     {
@@ -1249,56 +1299,6 @@
         "guardrails",
         "mcp",
         "verification"
-      ]
-    },
-    {
-      "name": "glm-web-search",
-      "source": "./plugins/glm-web-search",
-      "description": "搜索网页，需 GLM Coding Plan API Key。",
-      "category": "productivity",
-      "keywords": [
-        "智谱",
-        "联网搜索",
-        "glm",
-        "search"
-      ]
-    },
-    {
-      "name": "glm-web-reader",
-      "source": "./plugins/glm-web-reader",
-      "description": "提取网页正文，需 GLM Coding Plan API Key。",
-      "category": "productivity",
-      "keywords": [
-        "智谱",
-        "网页读取",
-        "glm",
-        "reader"
-      ]
-    },
-    {
-      "name": "glm-zread",
-      "source": "./plugins/glm-zread",
-      "description": "检索和读取公开开源仓库，需 GLM Coding Plan API Key。",
-      "category": "productivity",
-      "keywords": [
-        "智谱",
-        "开源",
-        "代码",
-        "仓库",
-        "zread"
-      ]
-    },
-    {
-      "name": "bailian-enhanced-search",
-      "source": "./plugins/bailian-enhanced-search",
-      "description": "百炼增强搜索，需相应 Token Plan 权益及百炼 API Key。",
-      "category": "productivity",
-      "keywords": [
-        "阿里",
-        "百炼",
-        "增强搜索",
-        "bailian",
-        "search"
       ]
     }
   ]

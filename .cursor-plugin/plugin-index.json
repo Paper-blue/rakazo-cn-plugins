@@ -1,7 +1,47 @@
 {
   "plugins": {
+    "bailian-enhanced-search": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
     "dashscope-websearch": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "glm-web-reader": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "glm-web-search": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "glm-zread": {
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +51,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "sha": "de70765c002a0529f0b67f740a8afdd2c2156b5e",
       "components": {
         "mcpServers": [
           {
@@ -1572,46 +1612,6 @@
         "skills": [
           {
             "description": "skill"
-          }
-        ]
-      }
-    },
-    "glm-web-search": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
-          }
-        ]
-      }
-    },
-    "glm-web-reader": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
-          }
-        ]
-      }
-    },
-    "glm-zread": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
-          }
-        ]
-      }
-    },
-    "bailian-enhanced-search": {
-      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
-      "components": {
-        "mcpServers": [
-          {
-            "description": "http"
           }
         ]
       }
