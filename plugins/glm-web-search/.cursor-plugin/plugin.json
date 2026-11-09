@@ -1,0 +1,13 @@
+{
+  "name": "glm-web-search",
+  "displayName": "智谱 · 联网搜索",
+  "version": "0.1.0",
+  "description": "搜索网页，需 GLM Coding Plan API Key。",
+  "category": "productivity",
+  "keywords": [
+    "智谱",
+    "联网搜索",
+    "glm",
+    "search"
+  ]
+}

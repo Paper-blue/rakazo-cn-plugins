@@ -1,0 +1,14 @@
+{
+  "name": "glm-zread",
+  "displayName": "智谱 · 开源仓库读取",
+  "version": "0.1.0",
+  "description": "检索和读取公开开源仓库，需 GLM Coding Plan API Key。",
+  "category": "productivity",
+  "keywords": [
+    "智谱",
+    "开源",
+    "代码",
+    "仓库",
+    "zread"
+  ]
+}

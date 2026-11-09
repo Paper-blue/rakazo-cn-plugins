@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "glm-zread": {
+      "type": "streamable-http",
+      "url": "https://open.bigmodel.cn/api/mcp/zread/mcp"
+    }
+  }
+}

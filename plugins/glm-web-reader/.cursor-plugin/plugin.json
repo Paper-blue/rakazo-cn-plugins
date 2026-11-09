@@ -1,0 +1,13 @@
+{
+  "name": "glm-web-reader",
+  "displayName": "智谱 · 网页读取",
+  "version": "0.1.0",
+  "description": "提取网页正文，需 GLM Coding Plan API Key。",
+  "category": "productivity",
+  "keywords": [
+    "智谱",
+    "网页读取",
+    "glm",
+    "reader"
+  ]
+}

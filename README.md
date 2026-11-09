@@ -30,6 +30,12 @@
 | --- | --- | --- |
 | `tencent-yuanbao-search` | 腾讯云元宝联网搜索（SearchPro） | 调用工具需腾讯云联网搜索 API Key |
 | `dashscope-websearch` | 阿里云百炼 WebSearch | 需 DashScope API Key（Bearer） |
+| `bailian-enhanced-search` | [百炼增强搜索](https://help.aliyun.com/en/model-studio/token-plan-harness-tool) | 需相应 Token Plan 权益与百炼 API Key |
+| `glm-web-search` | [智谱联网搜索](https://docs.bigmodel.cn/cn/coding-plan/mcp/search-mcp-server) | 需 GLM Coding Plan API Key |
+| `glm-web-reader` | [智谱网页读取](https://docs.bigmodel.cn/cn/coding-plan/mcp/reader-mcp-server) | 需 GLM Coding Plan API Key |
+| `glm-zread` | [智谱开源仓库读取](https://docs.bigmodel.cn/cn/coding-plan/mcp/zread-mcp-server) | 需 GLM Coding Plan API Key |
+
+这些新增地址只经过无凭据请求验证，尚未验证登录或工具调用。安装插件后需在 MCP 服务器设置里配置 `Authorization: Bearer <API Key>`；插件自带的「登录」按钮是否适用于这些服务尚未验证。不要把密钥提交到仓库。
 
 ### 聚合插件（`sources.json`）
 

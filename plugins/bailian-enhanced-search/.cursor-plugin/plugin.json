@@ -1,0 +1,14 @@
+{
+  "name": "bailian-enhanced-search",
+  "displayName": "百炼 · 增强联网搜索",
+  "version": "0.1.0",
+  "description": "百炼增强搜索，需相应 Token Plan 权益及百炼 API Key。",
+  "category": "productivity",
+  "keywords": [
+    "阿里",
+    "百炼",
+    "增强搜索",
+    "bailian",
+    "search"
+  ]
+}

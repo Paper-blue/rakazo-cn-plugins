@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "glm-web-reader": {
+      "type": "streamable-http",
+      "url": "https://open.bigmodel.cn/api/mcp/web_reader/mcp"
+    }
+  }
+}

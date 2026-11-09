@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bailian-enhanced-search": {
+      "type": "streamable-http",
+      "url": "https://dashscope.aliyuncs.com/api/v1/mcps/EnhancedSearch/mcp"
+    }
+  }
+}

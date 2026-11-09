@@ -1575,6 +1575,46 @@
           }
         ]
       }
+    },
+    "glm-web-search": {
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "glm-web-reader": {
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "glm-zread": {
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
+    },
+    "bailian-enhanced-search": {
+      "sha": "227c773dc24a4fe5589408ace65549da1bba514a",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
     }
   }
 }
