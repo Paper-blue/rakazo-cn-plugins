@@ -10,5 +10,6 @@
     "glm",
     "reader"
   ],
-  "logo": "brand.svg"
+  "logo": "brand.svg",
+  "homepage": "https://bigmodel.cn"
 }

@@ -78,7 +78,7 @@ node scripts/build-registry.mjs --check   # CI 用：生成结果与提交内容
 
 ## 图标来源
 
-腾讯文档和 WPS 的图标来自其官网发布的 favicon（分别为 `https://docs.idqqimg.com/tim/docs/desktop/favicon.ico` 和 `https://cloudcdn.qwps.cn/open/web_open-homepage/favicon.ico`），以 PNG 存储；智谱 Z.ai 和阿里云图标来自 [Simple Icons](https://github.com/simple-icons/simple-icons)，该项目代码按 [CC0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) 发布，品牌标识仍受商标权约束。图标仅用于指代对应服务，市场不是官方出品。
+腾讯文档和 WPS 的图标来自其官网发布的 favicon（分别为 `https://docs.idqqimg.com/tim/docs/desktop/favicon.ico` 和 `https://cloudcdn.qwps.cn/open/web_open-homepage/favicon.ico`），以 PNG 存储；智谱 Z.ai 和阿里云图标来自 [Simple Icons](https://github.com/simple-icons/simple-icons)，该项目代码按 [CC0](https://github.com/simple-icons/simple-icons/blob/develop/LICENSE.md) 发布，品牌标识仍受商标权约束。图标仅用于指代对应服务，市场不是官方出品。对应条目同时提供官方 homepage；当浏览器无法读取仓库图标时，Rakazo 会尝试从官网获取 favicon，具体显示取决于目标站点及网络可用性。
 
 ## 说明
 

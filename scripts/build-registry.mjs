@@ -124,6 +124,7 @@ async function vendored() {
         source: `./plugins/${name}`,
         description: String(manifest.description ?? '').slice(0, 200),
         category: category(manifest.category, 'productivity'),
+        ...(typeof manifest.homepage === 'string' && manifest.homepage.startsWith('https://') ? { homepage: manifest.homepage } : {}),
         keywords,
       },
       index: SHA_RE.test(head) ? { sha: head, components: mcpServers ? { mcpServers: Array.from({ length: mcpServers }, () => ({ description: 'http' })) } : { skills: [{ description: 'skill' }] } } : { components: {} },

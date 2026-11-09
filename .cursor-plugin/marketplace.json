@@ -18,7 +18,8 @@
         "增强搜索",
         "bailian",
         "search"
-      ]
+      ],
+      "homepage": "https://www.aliyun.com"
     },
     {
       "name": "dashscope-websearch",
@@ -34,7 +35,8 @@
         "dashscope",
         "aliyun",
         "search"
-      ]
+      ],
+      "homepage": "https://www.aliyun.com"
     },
     {
       "name": "glm-web-reader",
@@ -46,7 +48,8 @@
         "网页读取",
         "glm",
         "reader"
-      ]
+      ],
+      "homepage": "https://bigmodel.cn"
     },
     {
       "name": "glm-web-search",
@@ -58,7 +61,8 @@
         "联网搜索",
         "glm",
         "search"
-      ]
+      ],
+      "homepage": "https://bigmodel.cn"
     },
     {
       "name": "glm-zread",
@@ -71,7 +75,8 @@
         "代码",
         "仓库",
         "zread"
-      ]
+      ],
+      "homepage": "https://bigmodel.cn"
     },
     {
       "name": "tencent-docs",
@@ -84,7 +89,8 @@
         "文档",
         "办公",
         "tencent docs"
-      ]
+      ],
+      "homepage": "https://docs.qq.com"
     },
     {
       "name": "tencent-yuanbao-search",
@@ -111,7 +117,8 @@
         "金山",
         "日历",
         "办公"
-      ]
+      ],
+      "homepage": "https://open.wps.cn"
     },
     {
       "name": "wps-365-dbsheet",
@@ -123,7 +130,8 @@
         "金山",
         "多维表格",
         "办公"
-      ]
+      ],
+      "homepage": "https://open.wps.cn"
     },
     {
       "name": "wps-365-docs",
@@ -135,7 +143,8 @@
         "金山",
         "智能文档",
         "办公"
-      ]
+      ],
+      "homepage": "https://open.wps.cn"
     },
     {
       "name": "volcengine-core",
