@@ -74,6 +74,19 @@
       ]
     },
     {
+      "name": "tencent-docs",
+      "source": "./plugins/tencent-docs",
+      "description": "搜索、读取和编辑腾讯文档，使用腾讯文档 MCP 个人 Token（Authorization 原值）。",
+      "category": "productivity",
+      "keywords": [
+        "腾讯文档",
+        "在线文档",
+        "文档",
+        "办公",
+        "tencent docs"
+      ]
+    },
+    {
       "name": "tencent-yuanbao-search",
       "source": "./plugins/tencent-yuanbao-search",
       "description": "腾讯云元宝联网搜索（SearchPro）远程 MCP",
@@ -86,6 +99,42 @@
         "联网搜索",
         "tencent",
         "search"
+      ]
+    },
+    {
+      "name": "wps-365-calendar",
+      "source": "./plugins/wps-365-calendar",
+      "description": "WPS 365 企业日历；需要企业自建应用、用户授权和对应权限。",
+      "category": "productivity",
+      "keywords": [
+        "wps",
+        "金山",
+        "日历",
+        "办公"
+      ]
+    },
+    {
+      "name": "wps-365-dbsheet",
+      "source": "./plugins/wps-365-dbsheet",
+      "description": "WPS 365 多维表格；需要企业自建应用、用户授权和对应权限。",
+      "category": "productivity",
+      "keywords": [
+        "wps",
+        "金山",
+        "多维表格",
+        "办公"
+      ]
+    },
+    {
+      "name": "wps-365-docs",
+      "source": "./plugins/wps-365-docs",
+      "description": "WPS 365 智能文档；需要企业自建应用、用户授权和对应权限。",
+      "category": "productivity",
+      "keywords": [
+        "wps",
+        "金山",
+        "智能文档",
+        "办公"
       ]
     },
     {
@@ -1299,55 +1348,6 @@
         "guardrails",
         "mcp",
         "verification"
-      ]
-    },
-    {
-      "name": "tencent-docs",
-      "source": "./plugins/tencent-docs",
-      "description": "搜索、读取和编辑腾讯文档，使用腾讯文档 MCP 个人 Token（Authorization 原值）。",
-      "category": "productivity",
-      "keywords": [
-        "腾讯文档",
-        "在线文档",
-        "文档",
-        "办公",
-        "tencent docs"
-      ]
-    },
-    {
-      "name": "wps-365-calendar",
-      "source": "./plugins/wps-365-calendar",
-      "description": "WPS 365 企业日历；需要企业自建应用、用户授权和对应权限。",
-      "category": "productivity",
-      "keywords": [
-        "wps",
-        "金山",
-        "日历",
-        "办公"
-      ]
-    },
-    {
-      "name": "wps-365-docs",
-      "source": "./plugins/wps-365-docs",
-      "description": "WPS 365 智能文档；需要企业自建应用、用户授权和对应权限。",
-      "category": "productivity",
-      "keywords": [
-        "wps",
-        "金山",
-        "智能文档",
-        "办公"
-      ]
-    },
-    {
-      "name": "wps-365-dbsheet",
-      "source": "./plugins/wps-365-dbsheet",
-      "description": "WPS 365 多维表格；需要企业自建应用、用户授权和对应权限。",
-      "category": "productivity",
-      "keywords": [
-        "wps",
-        "金山",
-        "多维表格",
-        "办公"
       ]
     }
   ]
