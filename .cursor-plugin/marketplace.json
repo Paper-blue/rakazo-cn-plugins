@@ -12,20 +12,21 @@
       "source": "./plugins/bailian-enhanced-search",
       "description": "百炼增强搜索，需相应 Token Plan 权益及百炼 API Key。",
       "category": "productivity",
+      "homepage": "https://www.aliyun.com",
       "keywords": [
         "阿里",
         "百炼",
         "增强搜索",
         "bailian",
         "search"
-      ],
-      "homepage": "https://www.aliyun.com"
+      ]
     },
     {
       "name": "dashscope-websearch",
       "source": "./plugins/dashscope-websearch",
       "description": "阿里云百炼 WebSearch 远程 MCP",
       "category": "productivity",
+      "homepage": "https://www.aliyun.com",
       "keywords": [
         "阿里",
         "阿里云",
@@ -35,62 +36,61 @@
         "dashscope",
         "aliyun",
         "search"
-      ],
-      "homepage": "https://www.aliyun.com"
+      ]
     },
     {
       "name": "glm-web-reader",
       "source": "./plugins/glm-web-reader",
       "description": "提取网页正文，需 GLM Coding Plan API Key。",
       "category": "productivity",
+      "homepage": "https://bigmodel.cn",
       "keywords": [
         "智谱",
         "网页读取",
         "glm",
         "reader"
-      ],
-      "homepage": "https://bigmodel.cn"
+      ]
     },
     {
       "name": "glm-web-search",
       "source": "./plugins/glm-web-search",
       "description": "搜索网页，需 GLM Coding Plan API Key。",
       "category": "productivity",
+      "homepage": "https://bigmodel.cn",
       "keywords": [
         "智谱",
         "联网搜索",
         "glm",
         "search"
-      ],
-      "homepage": "https://bigmodel.cn"
+      ]
     },
     {
       "name": "glm-zread",
       "source": "./plugins/glm-zread",
       "description": "检索和读取公开开源仓库，需 GLM Coding Plan API Key。",
       "category": "productivity",
+      "homepage": "https://bigmodel.cn",
       "keywords": [
         "智谱",
         "开源",
         "代码",
         "仓库",
         "zread"
-      ],
-      "homepage": "https://bigmodel.cn"
+      ]
     },
     {
       "name": "tencent-docs",
       "source": "./plugins/tencent-docs",
       "description": "搜索、读取和编辑腾讯文档，使用腾讯文档 MCP 个人 Token（Authorization 原值）。",
       "category": "productivity",
+      "homepage": "https://docs.qq.com",
       "keywords": [
         "腾讯文档",
         "在线文档",
         "文档",
         "办公",
         "tencent docs"
-      ],
-      "homepage": "https://docs.qq.com"
+      ]
     },
     {
       "name": "tencent-yuanbao-search",
@@ -112,39 +112,39 @@
       "source": "./plugins/wps-365-calendar",
       "description": "WPS 365 企业日历；需要企业自建应用、用户授权和对应权限。",
       "category": "productivity",
+      "homepage": "https://open.wps.cn",
       "keywords": [
         "wps",
         "金山",
         "日历",
         "办公"
-      ],
-      "homepage": "https://open.wps.cn"
+      ]
     },
     {
       "name": "wps-365-dbsheet",
       "source": "./plugins/wps-365-dbsheet",
       "description": "WPS 365 多维表格；需要企业自建应用、用户授权和对应权限。",
       "category": "productivity",
+      "homepage": "https://open.wps.cn",
       "keywords": [
         "wps",
         "金山",
         "多维表格",
         "办公"
-      ],
-      "homepage": "https://open.wps.cn"
+      ]
     },
     {
       "name": "wps-365-docs",
       "source": "./plugins/wps-365-docs",
       "description": "WPS 365 智能文档；需要企业自建应用、用户授权和对应权限。",
       "category": "productivity",
+      "homepage": "https://open.wps.cn",
       "keywords": [
         "wps",
         "金山",
         "智能文档",
         "办公"
-      ],
-      "homepage": "https://open.wps.cn"
+      ]
     },
     {
       "name": "volcengine-core",
