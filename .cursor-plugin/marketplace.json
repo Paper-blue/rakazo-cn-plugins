@@ -39,6 +39,21 @@
       ]
     },
     {
+      "name": "dingtalk-aitable-oauth",
+      "source": "./plugins/dingtalk-aitable-oauth",
+      "description": "钉钉 AI 表格 MCP。OAuth 协议发现和客户端注册已验证；Rakazo 实际登录、授权回跳及读写仍待验证。",
+      "category": "productivity",
+      "homepage": "https://www.dingtalk.com",
+      "keywords": [
+        "钉钉",
+        "表格",
+        "办公",
+        "dingtalk",
+        "aitable",
+        "oauth"
+      ]
+    },
+    {
       "name": "glm-web-reader",
       "source": "./plugins/glm-web-reader",
       "description": "提取网页正文，需 GLM Coding Plan API Key。",
@@ -1358,21 +1373,6 @@
         "mcp",
         "verification"
       ]
-    },
-    {
-      "name": "dingtalk-aitable-oauth",
-      "source": "./plugins/dingtalk-aitable-oauth",
-      "description": "钉钉 AI 表格 MCP。OAuth 协议发现和客户端注册已验证；Rakazo 实际登录、授权回跳及读写仍待验证。",
-      "category": "productivity",
-      "keywords": [
-        "钉钉",
-        "表格",
-        "办公",
-        "dingtalk",
-        "aitable",
-        "oauth"
-      ],
-      "homepage": "https://www.dingtalk.com"
     }
   ]
 }
