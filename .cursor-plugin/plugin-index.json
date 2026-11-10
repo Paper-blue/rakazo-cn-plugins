@@ -1655,6 +1655,16 @@
           }
         ]
       }
+    },
+    "dingtalk-aitable-oauth": {
+      "sha": "d6ebf5c5f0d4603558be710d963be1eec47c339a",
+      "components": {
+        "mcpServers": [
+          {
+            "description": "http"
+          }
+        ]
+      }
     }
   }
 }

@@ -38,10 +38,11 @@
 | `wps-365-calendar` | [WPS 365 日历](https://open.wps.cn/documents/app-integration-dev/mcp-server/use-guide) | WPS 365 企业应用、授权及用户 access token |
 | `wps-365-docs` | [WPS 365 智能文档](https://open.wps.cn/documents/app-integration-dev/mcp-server/tools/mcp_kso-airpage) | WPS 365 企业应用、授权及用户 access token |
 | `wps-365-dbsheet` | [WPS 365 多维表格](https://open.wps.cn/documents/app-integration-dev/mcp-server/tools/mcp_kso-dbsheet) | WPS 365 企业应用、授权及用户 access token |
+| `dingtalk-aitable-oauth` | [钉钉 AI 表格（OAuth 测试）](https://wecode-ai.github.io/wegent-docs/docs/wegent/user-guide/integrations/provider-mcp-oauth) | 钉钉 OAuth 用户授权；尚未完成 Rakazo 登录及回跳验证 |
 
 WPS 日历、智能文档、多维表格已无凭据握手并列出工具；腾讯文档无凭据返回 401。它们尚未验证授权或实际调用。WPS 官方对接文档还要求在应用中关闭接口签名；具体是否适合由企业管理员评估。腾讯文档 Authorization 为 Token 原值，WPS 为 Bearer token。
 
-这些新增地址只经过无凭据请求验证，尚未验证登录或工具调用。安装插件后需在 MCP 服务器设置里配置 `Authorization: Bearer <API Key>`；插件自带的「登录」按钮是否适用于这些服务尚未验证。不要把密钥提交到仓库。
+智谱和百炼新增地址只经过无凭据请求验证，尚未验证登录或工具调用。钉钉地址经独立 MCP SDK 动态客户端注册与 PKCE 授权 URL 生成测试，但尚未在 Rakazo 内完成登录、回调或刷新验证。不要把密钥提交到仓库。
 
 ### 聚合插件（`sources.json`）
 

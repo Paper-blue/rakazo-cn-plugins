@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "dingtalk-aitable-oauth": {
+      "type": "streamable-http",
+      "url": "https://mcp-gw.dingtalk.com/oauth/server/aitable"
+    }
+  }
+}
