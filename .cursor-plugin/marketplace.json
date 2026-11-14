@@ -418,7 +418,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/cloudbase-skills"
       },
       "description": "智谱 ZCode：CloudBase development skills and MCP integration for building, deploying, and troubleshooting Web, WeChat Mini Program, database, cloud function, CloudRun, stor",
@@ -437,7 +437,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/github"
       },
       "description": "智谱 ZCode：GitHub CLI workflows for commits, pull requests, issues, releases, Actions, repositories, Codespaces, and other GitHub resources.",
@@ -459,7 +459,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/video-agent-kit"
       },
       "description": "智谱 ZCode：自动化视频剪辑工具包: 标准云端语音转录与合成、完整视频抽帧理解、局部复看、时间线、预览渲染、QC 和 TTS。",
@@ -478,7 +478,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/video2code"
       },
       "description": "智谱 ZCode：基于 ZCode 内置 Browser Use WebView 录制 WebM 并用 ffmpeg 转成 MP4/URL 复刻；无需 Playwright 或外部 Chromium",
@@ -496,7 +496,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/autoresearch"
       },
       "description": "智谱 ZCode：Autonomous experiment loop for ZCode: set a goal, pick a mechanical metric, and let the agent iterate. It measures, keeps what works, reverts what doesn't, and ",
@@ -516,7 +516,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/accounting-and-reporting"
       },
       "description": "智谱 ZCode：Accounting close and statutory reporting off the company's own ledger: month-end close checks, ledger reconciliation to transaction-level root cause, account ma",
@@ -535,7 +535,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/assess-credit"
       },
       "description": "智谱 ZCode：Fixed-income and credit research: bond profiles with valuation and duration/convexity/spread, issuer credit assessment, yield-curve and credit-spread analysis, ",
@@ -554,7 +554,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/find-clients"
       },
       "description": "智谱 ZCode：Corporate-banking client acquisition: prospect screening by region, industry chain, park and cluster, business-opportunity scanning, and full client portraits c",
@@ -573,7 +573,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/model-deals"
       },
       "description": "智谱 ZCode：Transaction structuring and modeling: accretion/dilution analysis, sources and uses with pro-forma capital structure, precedent-transaction comps, and capital-r",
@@ -592,7 +592,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/pick-funds"
       },
       "description": "智谱 ZCode：Fund and fund-manager research: multi-criteria fund screening, fund and manager profiles, holdings and style analysis, and shortlist comparisons for funds, ETFs",
@@ -611,7 +611,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/read-macro"
       },
       "description": "智谱 ZCode：Top-down macro and strategy work: macro dashboards across growth/inflation/liquidity/credit, index valuation percentiles and earnings attribution, cross-asset a",
@@ -630,7 +630,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/run-fpa"
       },
       "description": "智谱 ZCode：Corporate finance and FP&A: management reporting off a closed ledger, rolling cash-flow forecasts, budget-versus-actual variance analysis, scenario and break-ev",
@@ -649,7 +649,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/vet-companies"
       },
       "description": "智谱 ZCode：Counterparty and company due diligence: structured DD reports, related-party and supply-chain mapping, and risk scans (litigation, dishonesty records, pledges, ",
@@ -668,7 +668,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/watch-positions"
       },
       "description": "智谱 ZCode：Watchlist and portfolio monitoring: after-close recaps, position event alerts (announcements, pledges, lockup expiries), and intraday move attribution for A/H/U",
@@ -687,7 +687,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/write-research"
       },
       "description": "智谱 ZCode：End-to-end investment research reports, sector analysis, earnings updates, and valuation models",
@@ -706,7 +706,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/gitlab"
       },
       "description": "智谱 ZCode：GitLab CLI workflows based on GitLab's official Agent Skills for merge requests, issues, CI/CD, repositories, releases, and API operations.",
@@ -726,7 +726,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/alibaba-cloud-cli"
       },
       "description": "智谱 ZCode：Alibaba Cloud CLI workflows for credential setup, profile checks, and safe cloud resource operations.",
@@ -747,7 +747,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/lark-cli"
       },
       "description": "智谱 ZCode：Lark CLI workflows for docs, sheets, Base, calendar, messaging, and other SaaS resources with guided setup and OAuth login.",
@@ -769,7 +769,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/tencent-meeting-cli"
       },
       "description": "智谱 ZCode：Tencent Meeting CLI workflows with OAuth2 setup, meeting management, recordings, and attendee reports.",
@@ -788,7 +788,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/dingtalk-cli"
       },
       "description": "智谱 ZCode：DingTalk Workspace CLI workflows with OAuth/device authorization, profile checks, and optional upstream Skills.",
@@ -809,7 +809,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/wecom-cli"
       },
       "description": "智谱 ZCode：WeCom CLI workflows for messages, docs, sheets, mail, calendar, meetings, contacts, and todos with QR authentication.",
@@ -831,7 +831,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/hexin"
       },
       "description": "智谱 ZCode：MCP services for RoyalFlush iFinD stock, global stock, index, fund, and bond data.",
@@ -848,7 +848,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/wind"
       },
       "description": "智谱 ZCode：MCP services for Wind stock, global stock, index, fund, bond, economic, and document data.",
@@ -865,7 +865,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/tianyancha"
       },
       "description": "智谱 ZCode：MCP service for Tianyancha company information queries.",
@@ -882,7 +882,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/finance-search"
       },
       "description": "智谱 ZCode：MCP services for SEC EDGAR filing search and financial web and news search.",
@@ -899,7 +899,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/obsidian"
       },
       "description": "智谱 ZCode：Obsidian authoring skills from kepano/obsidian-skills: Obsidian Flavored Markdown notes, Bases database views, JSON Canvas boards, vault automation via Obsidian",
@@ -923,7 +923,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/hyper3d-rodin"
       },
       "description": "智谱 ZCode：Turn text or reference images into 3D models, split generated models into parts, and download assets for your project.",
@@ -944,7 +944,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/zcode-mcp-app-dev"
       },
       "description": "智谱 ZCode：Develop MCP Apps for ZCode with official SDKs and a small host-extension reference.",
@@ -958,7 +958,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/excalidraw"
       },
       "description": "智谱 ZCode：让 Agent 生成图形，在对话侧栏用 Excalidraw 编辑、引用选区、继续修改并导出。",
@@ -972,7 +972,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/photocraft"
       },
       "description": "智谱 ZCode：PhotoCraft image editing in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -990,7 +990,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/vectorcraft"
       },
       "description": "智谱 ZCode：VectorCraft vector illustration in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1008,7 +1008,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/pdfcraft"
       },
       "description": "智谱 ZCode：PdfCraft PDF editing in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1026,7 +1026,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/designcraft"
       },
       "description": "智谱 ZCode：DesignCraft page layout in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1044,7 +1044,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/wordcraft"
       },
       "description": "智谱 ZCode：WordCraft word processing in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1062,7 +1062,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/gridcraft"
       },
       "description": "智谱 ZCode：GridCraft spreadsheets in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1080,7 +1080,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/deckcraft"
       },
       "description": "智谱 ZCode：DeckCraft presentations in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1098,7 +1098,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/cadcraft"
       },
       "description": "智谱 ZCode：CADCraft CAD drafting in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1116,7 +1116,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/soundcraft"
       },
       "description": "智谱 ZCode：SoundCraft audio editing in a ZCode panel, with workspace file opening and host-mediated exports.",
@@ -1134,7 +1134,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/tripo-3d"
       },
       "description": "智谱 ZCode：Generate textured 3D models from text or images, add rigging and animation, simplify meshes, and export assets for games or 3D printing. Requires a mainland Chi",
@@ -1158,7 +1158,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/kicad"
       },
       "description": "智谱 ZCode：KiCad 10 inside the conversation: agents design 2-layer boards from a circuit spec (real KiCad libraries, auto-route, DRC, Gerber/BOM/CPL); the side panel shows",
@@ -1177,7 +1177,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/jupyter-notebook"
       },
       "description": "智谱 ZCode：在对话侧栏打开 Jupyter Notebook：连接已有的 Jupyter Server 或为工作区启动一个，Agent 与用户一起编辑和运行 cell。",
@@ -1191,7 +1191,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/typst-workbench"
       },
       "description": "智谱 ZCode：用你本机的 Typst 在对话侧栏实时预览文档：Agent 改完文件预览即刻更新，查看错误与渲染页面、在预览中标出位置、导出 PDF；你可以选中预览中的文字，连同对应的源码位置发给 Agent。",
@@ -1205,7 +1205,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/zotero"
       },
       "description": "智谱 ZCode：在对话侧栏使用你的 Zotero 文库：搜索与阅读论文和你的高亮，Agent 在 PDF 中标出依据、生成引用与 .bib 文件，并可导入论文、写笔记、整理分类。",
@@ -1219,7 +1219,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/unreal-engine"
       },
       "description": "智谱 ZCode：Build and edit Unreal Engine levels, adjust scene actors, and create and debug Blueprint logic for game prototypes.",
@@ -1237,7 +1237,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/anet"
       },
       "description": "智谱 ZCode：Delegate tasks to other AI agents over A2A through a local AgentNetwork (anet) node: find agents, send and track end-to-end encrypted tasks, settle priced skill",
@@ -1258,7 +1258,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/ruic-card"
       },
       "description": "智谱 ZCode：Holographic collectible-card generator: layered artwork + Blender + Three.js, in two routes - paint the four layers from a description or reference image, or de",
@@ -1282,7 +1282,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/libtv-cli"
       },
       "description": "智谱 ZCode：Official LibTV CLI skill for video creation canvases, workspaces, nodes, models, uploads, and generation workflows.",
@@ -1299,7 +1299,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/godot"
       },
       "description": "智谱 ZCode：Develop games with the official Godot CLI and show each iteration in the original desktop editor.",
@@ -1319,7 +1319,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/blender"
       },
       "description": "智谱 ZCode：Use the official Blender CLI to install or locate Blender, model in visible desktop iterations, and inspect images before refining the same project.",
@@ -1341,7 +1341,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/unity"
       },
       "description": "智谱 ZCode：Build game scenes in Unity, edit objects and assets, write C# scripts, and run and debug gameplay prototypes.",
@@ -1359,7 +1359,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "external_plugins/jev-decisions"
       },
       "description": "智谱 ZCode：Calibrated judgment tools for ZCode agents via the community jev-mcp server: verify claims against evidence, screen untrusted text, classify, decide, and gate t",
@@ -1379,7 +1379,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/image-generation"
       },
       "description": "智谱 ZCode：ZCode 官方生图：用文字生成图片，或按一张参考图改图，结果保存到工作区。",
@@ -1397,7 +1397,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/zai-org/zcode-plugins",
-        "sha": "326805e8e6f7249fdec9c98f3478be468c14a064",
+        "sha": "6e3951d0e659033d37d1fb54afdd5361346d1a72",
         "path": "plugins/video-generation"
       },
       "description": "智谱 ZCode：ZCode 官方视频生成：用文字生成短视频，或按参考素材、首尾帧生成，结果保存到工作区。",
