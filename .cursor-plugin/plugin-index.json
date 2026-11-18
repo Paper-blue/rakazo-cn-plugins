@@ -1,7 +1,7 @@
 {
   "plugins": {
     "bailian-enhanced-search": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "dashscope-websearch": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -21,7 +21,7 @@
       }
     },
     "dingtalk-aitable-oauth": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -31,7 +31,7 @@
       }
     },
     "glm-web-reader": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -41,7 +41,7 @@
       }
     },
     "glm-web-search": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -51,7 +51,7 @@
       }
     },
     "glm-zread": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -61,7 +61,7 @@
       }
     },
     "tencent-docs": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -71,7 +71,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -81,7 +81,7 @@
       }
     },
     "wps-365-calendar": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -91,7 +91,7 @@
       }
     },
     "wps-365-dbsheet": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -101,7 +101,7 @@
       }
     },
     "wps-365-docs": {
-      "sha": "a3da4af44779fde956b15a5f60763676e3f3dc74",
+      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
       "components": {
         "mcpServers": [
           {
@@ -223,9 +223,12 @@
       }
     },
     "aihc-eval": {
-      "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+      "sha": "8441edc6990ce40cf93a4d74771732f1d7d11145",
       "components": {
         "skills": [
+          {
+            "description": "skill"
+          },
           {
             "description": "skill"
           }
@@ -233,7 +236,7 @@
       }
     },
     "aihc-eval-openapi": {
-      "sha": "8266e9a097ca20634637069f6dba311b82641f50",
+      "sha": "8441edc6990ce40cf93a4d74771732f1d7d11145",
       "components": {
         "skills": [
           {
@@ -501,7 +504,7 @@
       }
     },
     "cloudbase-skills": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -511,7 +514,7 @@
       }
     },
     "github": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -548,7 +551,7 @@
       }
     },
     "video-agent-kit": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -578,7 +581,7 @@
       }
     },
     "video2code": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -617,7 +620,7 @@
       }
     },
     "autoresearch": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -647,7 +650,7 @@
       }
     },
     "accounting-and-reporting": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -700,7 +703,7 @@
       }
     },
     "assess-credit": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -744,7 +747,7 @@
       }
     },
     "find-clients": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -788,7 +791,7 @@
       }
     },
     "model-deals": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -832,7 +835,7 @@
       }
     },
     "pick-funds": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -882,7 +885,7 @@
       }
     },
     "read-macro": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -926,7 +929,7 @@
       }
     },
     "run-fpa": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -994,7 +997,7 @@
       }
     },
     "vet-companies": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1032,7 +1035,7 @@
       }
     },
     "watch-positions": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1076,7 +1079,7 @@
       }
     },
     "write-research": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1180,7 +1183,7 @@
       }
     },
     "gitlab": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1196,7 +1199,7 @@
       }
     },
     "alibaba-cloud-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1209,7 +1212,7 @@
       }
     },
     "lark-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1222,7 +1225,7 @@
       }
     },
     "tencent-meeting-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1235,7 +1238,7 @@
       }
     },
     "dingtalk-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1248,7 +1251,7 @@
       }
     },
     "wecom-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1261,7 +1264,7 @@
       }
     },
     "hexin": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "mcpServers": [
           {
@@ -1283,7 +1286,7 @@
       }
     },
     "wind": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "mcpServers": [
           {
@@ -1311,7 +1314,7 @@
       }
     },
     "tianyancha": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "mcpServers": [
           {
@@ -1321,7 +1324,7 @@
       }
     },
     "finance-search": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "mcpServers": [
           {
@@ -1334,7 +1337,7 @@
       }
     },
     "obsidian": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1368,7 +1371,7 @@
       }
     },
     "hyper3d-rodin": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1383,7 +1386,7 @@
       }
     },
     "zcode-mcp-app-dev": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1393,7 +1396,7 @@
       }
     },
     "excalidraw": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1403,7 +1406,7 @@
       }
     },
     "photocraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1413,7 +1416,7 @@
       }
     },
     "vectorcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1423,7 +1426,7 @@
       }
     },
     "pdfcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1433,7 +1436,7 @@
       }
     },
     "designcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1443,7 +1446,7 @@
       }
     },
     "wordcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1453,7 +1456,7 @@
       }
     },
     "gridcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1463,7 +1466,7 @@
       }
     },
     "deckcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1473,7 +1476,7 @@
       }
     },
     "cadcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1483,7 +1486,7 @@
       }
     },
     "soundcraft": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "commands": [
           {
@@ -1493,7 +1496,7 @@
       }
     },
     "tripo-3d": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1511,7 +1514,7 @@
       }
     },
     "kicad": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1521,7 +1524,7 @@
       }
     },
     "jupyter-notebook": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1531,7 +1534,7 @@
       }
     },
     "typst-workbench": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1541,7 +1544,7 @@
       }
     },
     "zotero": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1551,7 +1554,7 @@
       }
     },
     "unreal-engine": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1572,7 +1575,7 @@
       }
     },
     "anet": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1590,7 +1593,7 @@
       }
     },
     "ruic-card": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1603,7 +1606,7 @@
       }
     },
     "libtv-cli": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1616,7 +1619,7 @@
       }
     },
     "godot": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1634,7 +1637,7 @@
       }
     },
     "blender": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1647,7 +1650,7 @@
       }
     },
     "unity": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1660,7 +1663,7 @@
       }
     },
     "jev-decisions": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1670,7 +1673,7 @@
       }
     },
     "image-generation": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1680,7 +1683,7 @@
       }
     },
     "video-generation": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
@@ -1690,7 +1693,7 @@
       }
     },
     "rfauto": {
-      "sha": "c35be84dfcb4634eeae7680ef8602b180299dff0",
+      "sha": "19439c804b0860a2c49617deecfaf9e7a2a390d2",
       "components": {
         "skills": [
           {
