@@ -1,7 +1,7 @@
 {
   "plugins": {
     "bailian-enhanced-search": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "dashscope-websearch": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -21,7 +21,7 @@
       }
     },
     "dingtalk-aitable-oauth": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -31,7 +31,7 @@
       }
     },
     "glm-web-reader": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -41,7 +41,7 @@
       }
     },
     "glm-web-search": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -51,7 +51,7 @@
       }
     },
     "glm-zread": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -61,7 +61,7 @@
       }
     },
     "tencent-docs": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -71,7 +71,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -81,7 +81,7 @@
       }
     },
     "wps-365-calendar": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -91,7 +91,7 @@
       }
     },
     "wps-365-dbsheet": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
@@ -101,7 +101,7 @@
       }
     },
     "wps-365-docs": {
-      "sha": "af259e42d7baf33d18e7ac32fe55366c45053d14",
+      "sha": "90b38e67f5e3a0ef4f64f55c2b7ea5596affc018",
       "components": {
         "mcpServers": [
           {
