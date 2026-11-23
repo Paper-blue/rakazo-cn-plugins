@@ -166,7 +166,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-core"
       },
       "description": "火山引擎：Core Volcengine discovery, documentation search, CLI operations, troubleshooting, and voluntary community feedback skills.",
@@ -180,7 +180,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-storage"
       },
       "description": "火山引擎：Operate Volcengine storage products and data with product-specific tools.",
@@ -194,7 +194,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-database"
       },
       "description": "火山引擎：Build and operate database-backed applications on Volcengine managed database platforms.",
@@ -208,7 +208,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-containers-middleware"
       },
       "description": "火山引擎：Deploy and manage Volcengine serverless, container, and middleware application runtimes.",
@@ -222,7 +222,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-security"
       },
       "description": "火山引擎：Assess security and compliance posture, query audit logs, and manage CloudTrail for Volcengine accounts and resources.",
@@ -236,7 +236,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-identity-access-control"
       },
       "description": "火山引擎：Design and establish Volcengine landing zones, organizations, identity, account factories, and governance baselines.",
@@ -250,7 +250,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "8f1a05778fe397a22f10394be2c01084fe342b92",
+        "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
         "path": "plugins/volcengine-service-support"
       },
       "description": "火山引擎：Support FORCE conference attendance, route product transactions (purchase, price enquiry, unsubscribe), prepare and deploy applications, manage infrastructure a",
@@ -264,7 +264,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/baidubce/aihc-plugins",
-        "sha": "8441edc6990ce40cf93a4d74771732f1d7d11145",
+        "sha": "2875faaee41866b7ceec28f06165a9b6059c464a",
         "path": "plugins/aihc-eval"
       },
       "description": "百度智能云：百舸模型评测工具集：覆盖具身评测的模型侧与评测集侧接入——把自定义推理服务改造成可用的 Model Server、把自定义 benchmark 镜像接入评测，均基于用户自定义镜像。",
@@ -278,7 +278,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/baidubce/aihc-plugins",
-        "sha": "8441edc6990ce40cf93a4d74771732f1d7d11145",
+        "sha": "2875faaee41866b7ceec28f06165a9b6059c464a",
         "path": "plugins/aihc-eval-openapi"
       },
       "description": "百度智能云：百舸具身评测 OpenAPI 实践：以苏州地域为例，给出评测任务的调用顺序、签名与幂等、CreateEmbodiedEval 请求体（预置模型、自有权重、自有镜像、全托管资源池）、结果与回放视频读取和常见报错排查。",
