@@ -1,7 +1,7 @@
 {
   "plugins": {
     "bailian-enhanced-search": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "dashscope-websearch": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -21,7 +21,7 @@
       }
     },
     "dingtalk-aitable-oauth": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -31,7 +31,7 @@
       }
     },
     "glm-web-reader": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -41,7 +41,7 @@
       }
     },
     "glm-web-search": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -51,7 +51,7 @@
       }
     },
     "glm-zread": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -61,7 +61,7 @@
       }
     },
     "tencent-docs": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -71,7 +71,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -81,7 +81,7 @@
       }
     },
     "wps-365-calendar": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -91,7 +91,7 @@
       }
     },
     "wps-365-dbsheet": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -101,7 +101,7 @@
       }
     },
     "wps-365-docs": {
-      "sha": "d520041062e0f67a5b94f822fd059539b216597a",
+      "sha": "69bf211c3b6726188cc797bdfe7acd57a8c5b0a1",
       "components": {
         "mcpServers": [
           {
@@ -111,7 +111,7 @@
       }
     },
     "volcengine-core": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -141,7 +141,7 @@
       }
     },
     "volcengine-storage": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -157,7 +157,7 @@
       }
     },
     "volcengine-database": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -167,7 +167,7 @@
       }
     },
     "volcengine-containers-middleware": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -177,7 +177,7 @@
       }
     },
     "volcengine-security": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -190,7 +190,7 @@
       }
     },
     "volcengine-identity-access-control": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -200,7 +200,7 @@
       }
     },
     "volcengine-service-support": {
-      "sha": "d5ca43f53be67a24d9d54e2dedd5d49220be8921",
+      "sha": "549307032342c00b8a7051ebbfd2e92bde33e8c5",
       "components": {
         "skills": [
           {
@@ -509,7 +509,7 @@
       }
     },
     "cloudbase-skills": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -519,7 +519,7 @@
       }
     },
     "github": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -556,37 +556,7 @@
       }
     },
     "video-agent-kit": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
-      "components": {
-        "skills": [
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          },
-          {
-            "description": "skill"
-          }
-        ],
-        "commands": [
-          {
-            "description": "command"
-          },
-          {
-            "description": "command"
-          }
-        ]
-      }
-    },
-    "video2code": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -606,15 +576,56 @@
           },
           {
             "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          },
+          {
+            "description": "skill"
+          }
+        ],
+        "agents": [
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
+          },
+          {
+            "description": "agent"
           }
         ],
         "commands": [
-          {
-            "description": "command"
-          },
-          {
-            "description": "command"
-          },
           {
             "description": "command"
           },
@@ -625,7 +636,7 @@
       }
     },
     "autoresearch": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -655,7 +666,7 @@
       }
     },
     "accounting-and-reporting": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -708,7 +719,7 @@
       }
     },
     "assess-credit": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -752,7 +763,7 @@
       }
     },
     "find-clients": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -796,7 +807,7 @@
       }
     },
     "model-deals": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -840,7 +851,7 @@
       }
     },
     "pick-funds": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -890,7 +901,7 @@
       }
     },
     "read-macro": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -934,7 +945,7 @@
       }
     },
     "run-fpa": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1002,7 +1013,7 @@
       }
     },
     "vet-companies": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1040,7 +1051,7 @@
       }
     },
     "watch-positions": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1084,7 +1095,7 @@
       }
     },
     "write-research": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1188,7 +1199,7 @@
       }
     },
     "gitlab": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1204,7 +1215,7 @@
       }
     },
     "alibaba-cloud-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1217,7 +1228,7 @@
       }
     },
     "lark-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1230,7 +1241,7 @@
       }
     },
     "tencent-meeting-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1243,7 +1254,7 @@
       }
     },
     "dingtalk-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1256,7 +1267,7 @@
       }
     },
     "wecom-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1269,7 +1280,7 @@
       }
     },
     "hexin": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "mcpServers": [
           {
@@ -1291,7 +1302,7 @@
       }
     },
     "wind": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "mcpServers": [
           {
@@ -1319,7 +1330,7 @@
       }
     },
     "tianyancha": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "mcpServers": [
           {
@@ -1329,7 +1340,7 @@
       }
     },
     "finance-search": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "mcpServers": [
           {
@@ -1342,7 +1353,7 @@
       }
     },
     "obsidian": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1376,7 +1387,7 @@
       }
     },
     "hyper3d-rodin": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1391,7 +1402,7 @@
       }
     },
     "zcode-mcp-app-dev": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1401,7 +1412,7 @@
       }
     },
     "excalidraw": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1411,7 +1422,7 @@
       }
     },
     "photocraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1421,7 +1432,7 @@
       }
     },
     "vectorcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1431,7 +1442,7 @@
       }
     },
     "pdfcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1441,7 +1452,7 @@
       }
     },
     "designcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1451,7 +1462,7 @@
       }
     },
     "wordcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1461,7 +1472,7 @@
       }
     },
     "gridcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1471,7 +1482,7 @@
       }
     },
     "deckcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1481,7 +1492,7 @@
       }
     },
     "cadcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1491,7 +1502,7 @@
       }
     },
     "soundcraft": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "commands": [
           {
@@ -1501,7 +1512,7 @@
       }
     },
     "tripo-3d": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1519,7 +1530,7 @@
       }
     },
     "kicad": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1529,7 +1540,7 @@
       }
     },
     "jupyter-notebook": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1539,7 +1550,7 @@
       }
     },
     "typst-workbench": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1549,7 +1560,7 @@
       }
     },
     "zotero": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1559,7 +1570,7 @@
       }
     },
     "unreal-engine": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1580,7 +1591,7 @@
       }
     },
     "anet": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1598,7 +1609,7 @@
       }
     },
     "ruic-card": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1611,7 +1622,7 @@
       }
     },
     "libtv-cli": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1624,7 +1635,7 @@
       }
     },
     "godot": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1642,7 +1653,7 @@
       }
     },
     "blender": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1655,7 +1666,7 @@
       }
     },
     "unity": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1668,7 +1679,7 @@
       }
     },
     "jev-decisions": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1678,7 +1689,7 @@
       }
     },
     "image-generation": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1688,7 +1699,7 @@
       }
     },
     "video-generation": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1698,7 +1709,7 @@
       }
     },
     "happyhorse-video": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1708,7 +1719,7 @@
       }
     },
     "rfauto": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1752,7 +1763,7 @@
       }
     },
     "hyper3d-3d": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1762,7 +1773,7 @@
       }
     },
     "meshy-3d": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
@@ -1772,7 +1783,7 @@
       }
     },
     "hi3d-3d": {
-      "sha": "1b72162728544222b68c5f1308787b2ded67cb10",
+      "sha": "7c976c66f8c35e55810fac3684172f5ec96d2d68",
       "components": {
         "skills": [
           {
