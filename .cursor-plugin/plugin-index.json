@@ -1,7 +1,7 @@
 {
   "plugins": {
     "bailian-enhanced-search": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -11,7 +11,7 @@
       }
     },
     "dashscope-websearch": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -21,7 +21,7 @@
       }
     },
     "dingtalk-aitable-oauth": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -31,7 +31,7 @@
       }
     },
     "glm-web-reader": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -41,7 +41,7 @@
       }
     },
     "glm-web-search": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -51,7 +51,7 @@
       }
     },
     "glm-zread": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -61,7 +61,7 @@
       }
     },
     "tencent-docs": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -71,7 +71,7 @@
       }
     },
     "tencent-yuanbao-search": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -81,7 +81,7 @@
       }
     },
     "wps-365-calendar": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -91,7 +91,7 @@
       }
     },
     "wps-365-dbsheet": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -101,7 +101,7 @@
       }
     },
     "wps-365-docs": {
-      "sha": "2e3d215de70064a850ea2ed08571ab37ac9e39b6",
+      "sha": "04797e5b04cc3c7cf4bcc275f0a4824623061a65",
       "components": {
         "mcpServers": [
           {
@@ -111,7 +111,7 @@
       }
     },
     "volcengine-core": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -141,7 +141,7 @@
       }
     },
     "volcengine-ark": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -151,7 +151,7 @@
       }
     },
     "volcengine-storage": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -167,7 +167,7 @@
       }
     },
     "volcengine-database": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -177,7 +177,7 @@
       }
     },
     "volcengine-containers-middleware": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -187,7 +187,7 @@
       }
     },
     "volcengine-security": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -200,7 +200,7 @@
       }
     },
     "volcengine-identity-access-control": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {
@@ -210,7 +210,7 @@
       }
     },
     "volcengine-service-support": {
-      "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+      "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
       "components": {
         "skills": [
           {

@@ -166,7 +166,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-core"
       },
       "description": "火山引擎：Core Volcengine discovery, documentation search, CLI operations, troubleshooting, and voluntary community feedback skills.",
@@ -180,7 +180,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-ark"
       },
       "description": "火山引擎：Work with Volcengine Ark models through the official Ark CLI: choose models and check prices, manage API Keys and endpoints, run inference and generation, and t",
@@ -194,7 +194,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-storage"
       },
       "description": "火山引擎：Operate Volcengine storage products and data with product-specific tools.",
@@ -208,7 +208,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-database"
       },
       "description": "火山引擎：Build and operate database-backed applications on Volcengine managed database platforms.",
@@ -222,7 +222,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-containers-middleware"
       },
       "description": "火山引擎：Deploy and manage Volcengine serverless, container, and middleware application runtimes.",
@@ -236,7 +236,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-security"
       },
       "description": "火山引擎：Assess security and compliance posture, query audit logs, and manage CloudTrail for Volcengine accounts and resources.",
@@ -250,7 +250,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-identity-access-control"
       },
       "description": "火山引擎：Design and establish Volcengine landing zones, organizations, identity, account factories, and governance baselines.",
@@ -264,7 +264,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/volcengine/volcengine-agent-toolkit",
-        "sha": "2714185d5c6f31e510326ab9519f3d541919d924",
+        "sha": "796b5c1784fdbff780d9b9bc8d2356dd0d7873bc",
         "path": "plugins/volcengine-service-support"
       },
       "description": "火山引擎：Support FORCE conference attendance, route product transactions (purchase, price enquiry, unsubscribe), prepare and deploy applications, manage infrastructure a",
